@@ -1,0 +1,15 @@
+{
+  "name": "js--problem-set-1",
+  "version": "1.0.0",
+  "description": "Basic JS Challenges",
+  "main": "challenge.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0"
+  }
+}
